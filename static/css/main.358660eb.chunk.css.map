@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIA,WAHE,iBAOF,CAJA,MACE,WAAY,CAEZ,iBACF,CAEA,KACE,iBAAkB,CAClB,aAAc,CACd,WACF","file":"main.358660eb.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n#root {\n  width: 600px;\n  text-align: center;\n  margin: 100px auto;\n}\n\nspan {\n  text-align: center;\n  display: table;\n  margin: auto;\n}\n"]}
